@@ -1,0 +1,6 @@
+name: CordBar
+version: '${project.version}'
+main: eu.javamio.cordbar.CordBar
+api-version: '1.18'
+author: JavaMio
+
